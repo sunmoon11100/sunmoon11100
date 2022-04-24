@@ -94,17 +94,17 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/CryptoPig.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/CryptoPig.png?raw=true" width="300">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="300">
             </a>
         </td>               
     </tr>
@@ -118,17 +118,17 @@
     <tr>
         <td>
             <a href="https://www.piracypunks.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/PiracyPunks.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PiracyPunks.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://helldemon.cryptoliveton.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/HellDemon.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/HellDemon.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://theragnarregiment.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/Ragnarregiment.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Ragnarregiment.png?raw=true" width="300">
             </a>
         </td>                       
     </tr>   
@@ -147,22 +147,22 @@
     <tr>
         <td>
             <a href="https://nft.audioburst.io/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/Audioburst.png?raw=true" width="200">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Audioburst.png?raw=true" width="200">
             </a>
         </td>        
         <td>
             <a href="https://latitud.art/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/latitud.png?raw=true" width="200">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/latitud.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://lunachownft.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://qubismmarketplace.org/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/qubismmarketplace.png?raw=true" width="200">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/qubismmarketplace.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -181,29 +181,28 @@
     <tr>
         <td>
             <a href="https://app.luchowswap.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/LuchowSwap.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
             </a>
         </td>  
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/cosmicswap.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/cosmicswap.png?raw=true" width="300">
             </a>
         </td>          
         <td>
             <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/ddexinfo.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/ddexinfo.png?raw=true" width="300">
             </a>
         </td>   
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/sunmoon11100/profile/blob/master/projects/maticswap.png?raw=true" width="300">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/maticswap.png?raw=true" width="300">
             </a>
         </td> 
     </tr>  
 </table>
 
-#### I am a blockchain developer in senior level and work in DeFi projects.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
+#### I am an experienced blockchain developer and work on DeFi projects.
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
 - Decentralized Exchanges with TradingView.
 - Token Bridge, Block Explorer.
