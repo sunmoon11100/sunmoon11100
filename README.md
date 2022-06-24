@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Victor;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Victor;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -62,7 +62,7 @@
 </p>
 
 <a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 📫 How to Reach me:
+## 📫 How to Reach me:
 <p align="left">
   <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
   <a href="https://t.me/sunmoontelegram" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -71,7 +71,7 @@
 </p>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
+## Git profile Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroim&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
 </p>
