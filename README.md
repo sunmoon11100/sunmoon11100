@@ -7,6 +7,9 @@
 <h3 align="left">Programming Languages</h3>
 <table>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" alt="move" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
@@ -14,14 +17,13 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/></td>
   </tr>  
 </table>
   
 <h3 align="left">Technologies</h3>
 <table>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
@@ -51,11 +53,15 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kroim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sunmoon11100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
 
  sunmoon11100 | sunmoon11100
 --- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=kroim&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
@@ -73,12 +79,12 @@
 
 ## Git profile Trophies
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroim&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunmoon11100&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/ninja-1337" alt="Profile views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninja-1337.ninja-1337" alt="visitors"/>
+  <img src="https://gpvc.arturio.dev/sunmoon11100" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunmoon11100.sunmoon11100" alt="visitors"/>
 </p>
 
 ### DeFi Experiences
@@ -172,13 +178,18 @@
 <table>
     <thead align="center">
         <tr>
+            <td>LiquidSwap</td>
             <td>LuchowSwap</td>
             <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
             <td>MaticSwap</td>  
         </tr>
     </thead>
     <tr>
+        <td>
+            <a href="https://liquidswap.com/#/">
+                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LiquidSwap.png?raw=true" width="300">
+            </a>
+        </td>   
         <td>
             <a href="https://app.luchowswap.com/">
                 <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
@@ -190,11 +201,6 @@
             </a>
         </td>          
         <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/ddexinfo.png?raw=true" width="300">
-            </a>
-        </td>   
-        <td>
             <a href="https://maticfront.web.app/farms">
                 <img src="https://github.com/sunmoon11100/profile/blob/main/projects/maticswap.png?raw=true" width="300">
             </a>
@@ -203,6 +209,7 @@
 </table>
 
 #### I am an experienced blockchain developer and work on DeFi projects.
+- Liquidswap - the 1st DEX on Aptos
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
 - Decentralized Exchanges with TradingView.
 - Token Bridge, Block Explorer.
