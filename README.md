@@ -9,7 +9,7 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" alt="move" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
@@ -34,7 +34,7 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
   </tr>  
